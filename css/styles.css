@@ -38,6 +38,11 @@ button {
   display: flex;
   gap: 40px;
 }
+.page-header-conteiner {
+  display: flex;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 .page-navigation {
   display: flex;
   width: 1158px;
@@ -96,6 +101,9 @@ body {
 }
 .address-list {
   gap: 40px;
+}
+.address-list-item-main {
+  display: flex;
 }
 .address-list-item {
   font-size: 16px;
